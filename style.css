@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9cd; /* Fondo suave */
+    color: #803d3d;
+    margin: 40px;
+    text-align: center;
+}
+h1 {
+    color: #445724; /* Color primario */
+}
